@@ -12,6 +12,6 @@ BMI Health App
 ![Screen 2](/snaps/Snapshot%202.jpg)
 
 3- Snapshot 3
-![Snapshot](/snaps/Running%20Android%20Virtual%20Device.gif.crdownload)
+![Snapshot](/snaps/Running%20Android%20Virtual%20Device.mp4)
 
 
